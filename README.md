@@ -39,8 +39,8 @@ To build an interactive and visually informative dashboard that:
 ## 🙋‍♂️ About Me
 **Raghav Gupta**  
 📍 B.Tech CSE | Intern @ Labmentix  
-🔗 [LinkedIn](https://linkedin.com) *(insert your link)*  
-📫 Email: *(your email)*
+🔗 [LinkedIn](www.linkedin.com/in/raghvendra-g) 
+📫 Email: *guptaraghav179@gmail.com*
 
 ---
 
